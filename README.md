@@ -1,0 +1,2 @@
+# Simple Data Storage with Alert Message Android App
+This Android app demonstrates a basic implementation of storing and deleting a single piece of user data using SharedPreferences. Before the data is saved or deleted, the app prompts the user with a confirmation message ("Are you sure?"), ensuring that actions are intentional. It's a straightforward example of how to manage persistent data storage in Android while incorporating user confirmation for critical actions.
